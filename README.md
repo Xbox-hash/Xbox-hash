@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Nelson Parra 👋</h1>
-  <h3>Full-Stack Developer | Especialista en React & .NET</h3>
+  <h3>Full-Stack Developer | Java & .NET</h3>
 </div>
 
 <br/>
