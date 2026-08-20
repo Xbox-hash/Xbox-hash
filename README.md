@@ -34,6 +34,8 @@
 ![.NET 8](https://img.shields.io/badge/.NET%208.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -65,6 +67,7 @@
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
 | 🐂 **[MymbaSoft](https://github.com/Xbox-hash/MymbaSoft)** | Sistema integral de gestión ganadera y operaciones agropecuarias. | ASP.NET Core, EF Core, SQL Server, Bootstrap |
+| ☕ **[CTS](https://github.com/Xbox-hash/CTS)** | Sistema empresarial desarrollado con arquitectura robusta backend. | Java, Spring Boot |
 | 💻 **Web Apps React** | Aplicaciones dinámicas con arquitectura modular en React. | React, JavaScript, CSS3 |
 
 ---
