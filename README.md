@@ -1,14 +1,6 @@
 <div align="center">
   <h1>Hola, soy Nelson Parra 👋</h1>
   <h3>Full-Stack Developer | Especialista en React & .NET</h3>
-  <p>
-    <a href="mailto:tu-correo@email.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/tu-usuario">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
 </div>
 
 <br/>
