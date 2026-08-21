@@ -62,16 +62,16 @@ Desarrollador **Full Stack (Java & C# .NET)** con **1 año de experiencia profes
 
 ## 🚀 Proyectos Destacados
 
-### 🟣 1. ERP Ganadero (Sistema Agroganadero) — `💼 Proyecto Freelance`
-- **Modalidad:** Proyecto Freelance / Particular.
-- **Arquitectura:** Patrón MVC (Model-View-Controller) & Razor Pages.
-- **Stack Utilizado:** C#, .NET 8.0, ASP.NET Core MVC, Razor Pages, Entity Framework Core 8, SQL Server, QuestPDF.
+### ☕ 1. Cash Transactions System (CTS) — `🚀 Próximamente en Producción`
+> **Sistema transaccional para control de caja, arqueo financiero y gestión de comisiones de servicios.**
+- **Desarrollo & Arquitectura:** Este proyecto fue desarrollado utilizando el lenguaje **Java 21** y el framework **Spring Boot 3.3**, bajo una arquitectura de **APIs RESTful y patrón MVC**. La persistencia de datos relacionales se implementó con **Spring Data JPA e Hibernate** sobre una base de datos **PostgreSQL**.
+- **Frontend & Seguridad:** En la capa cliente se utilizaron vistas dinámicas con **Thymeleaf, HTML5, CSS3 y JavaScript**, sumado a un esquema de seguridad por roles con **Spring Security 6**.
+- **Infraestructura Cloud:** Empaquetado dinámico en **Docker Compose** y preparado para lanzarse en producción sobre un servidor VPS en **Oracle Cloud Compute (Always Free)**.
 
-### ☕ 2. Cash Transactions System (CTS) — `🚀 Próximamente en Producción`
-- **Estado:** En breve a lanzarse en producción.
-- **Arquitectura:** APIs RESTful & Patrón MVC (Spring MVC / REST Controllers).
-- **Stack Utilizado:** Java 21, Spring Boot 3.3, Spring Data JPA, Spring Security 6, PostgreSQL, Thymeleaf, Docker, Maven.
-- **Infraestructura Cloud:** Oracle Cloud (VPS Compute Always Free), Docker Compose.
+### 🟣 2. ERP Ganadero (Sistema Agroganadero) — `💼 Proyecto Freelance`
+> **Aplicación web empresarial para la administración operativa, ganadera y control de stock.**
+- **Desarrollo & Arquitectura:** Proyecto desarrollado en modalidad **Freelance / Particular** en lenguaje **C#** sobre la plataforma **.NET 8.0**, estructurado bajo el **patrón arquitectónico MVC (Model-View-Controller)** y vistas dinámicas con **Razor Pages**.
+- **Base de Datos & Frontend:** Mapeo de datos con el ORM **Entity Framework Core 8** sobre **SQL Server**. En el frontend se integró el tema responsivo **Bootstrap (SB Admin 2)** con HTML5/CSS3/JS, y la librería **QuestPDF** para emisión de reportes ejecutivos en PDF.
 
 ---
 
