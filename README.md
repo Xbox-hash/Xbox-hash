@@ -26,18 +26,20 @@
 
 ## ⚡ Perfil Técnico
 
-Desarrollador Backend con **1 año de experiencia profesional** enfocado en el diseño, desarrollo e integración de **sistemas empresariales transaccionales y módulos ERP**. Especializado en la creación de soluciones robustas utilizando **Java (Spring Boot)** y **C# (.NET 8)**.
+Desarrollador Backend con **1 año de experiencia profesional** enfocado en el diseño, desarrollo e integración de **sistemas empresariales transaccionales y módulos ERP**. Aplicación rigurosa de **Clean Architecture, Principios SOLID y Clean Code**, trabajando bajo metodologías ágiles (**Scrum / Kanban**). Especializado en **Java (Spring Boot)** y **C# (.NET 8)**.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico & Metodologías
 
-| Ecosistema | Tecnologías & Herramientas |
+| Categoría | Tecnologías, Arquitectura & Herramientas |
 |---|---|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) **Java** | Java 21, Spring Boot 3.3, Spring Data JPA, Spring Security 6, Hibernate, Maven |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **C# .NET** | C# 12, .NET 8.0, ASP.NET Core MVC, Razor Pages, Entity Framework Core 8 |
+| 📐 **Arquitectura & Prácticas** | Clean Architecture, Principios SOLID, Clean Code, Patrones de Diseño, Refactorización |
+| 🔄 **Metodologías Ágiles** | Scrum, Kanban, Gitflow |
 | ![Database](https://img.shields.io/badge/Database-4169E1?style=flat-square&logo=postgresql&logoColor=white) **Bases de Datos** | PostgreSQL, SQL Server, MySQL |
-| ![Cloud & DevOps](https://img.shields.io/badge/Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) **Cloud & Herramientas** | Oracle Cloud (VPS Compute), Docker, Docker Compose, Git, GitHub, Thymeleaf |
+| ![Cloud & DevOps](https://img.shields.io/badge/Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) **Cloud & DevOps** | Oracle Cloud (VPS Compute), Docker, Docker Compose, Git, GitHub, Thymeleaf |
 
 ---
 
@@ -46,6 +48,8 @@ Desarrollador Backend con **1 año de experiencia profesional** enfocado en el d
 ### **Desarrollador de Software / Analista de TI**
 **Sisprime Sistemas** *(Jun 2025 – Presente)*
 - Desarrollo, mantenimiento y refactorización de módulos ERP empresariales en C#, .NET y bases de datos relacionales.
+- Aplicación de **Clean Architecture, SOLID y Clean Code** para la mantenibilidad y escalabilidad del código.
+- Trabajo colaborativo bajo metodología **Scrum / Kanban**.
 
 #### **Módulos Desarrollados & Implementados:**
 - 💳 **Módulo Préstamos & Financiero:** Desembolsos, pagos e integración con caja.
