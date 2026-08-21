@@ -1,20 +1,20 @@
 <div align="center">
 
 # 👨‍💻 Nelson Tobias Parra Moreno
-### **Desarrollador Backend | Java (Spring Boot) & C# (.NET 8)**
+### **Desarrollador Backend | Java (Spring Boot) & C# (.NET 8) | 1 Año de Experiencia**
 
 <br/>
 
-<!-- Botón principal al CV HTML interactivo -->
+<!-- Botón principal al CV HTML interactivo / Hoja de Vida -->
 <a href="https://xbox-hash.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/📄_VER_MI_CV_INTERACTIVO_(HTML/PDF)-ONLINE-2563eb?style=for-the-badge&logo=html5&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/📄_VER_HOJA_DE_VIDA_INTERACTIVA_(HTML/PDF)-ONLINE-2563eb?style=for-the-badge&logo=html5&logoColor=white" height="45" />
 </a>
 
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xbox--hash.onrender.com-000000?style=for-the-badge&logo=render&logoColor=white)](https://xbox-hash.onrender.com)
 [![Email](https://img.shields.io/badge/Email-t9834286%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t9834286@gmail.com)
-[![Ubicación](https://img.shields.io/badge/Ubicación-Saltos_del_Guairá,_Paraguay-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Ubicación](https://img.shields.io/badge/Ubicación-Katueté,_Paraguay-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## ⚡ Perfil Técnico
 
-Desarrollador Backend enfocado en el diseño, desarrollo e integración de **sistemas empresariales transaccionales y módulos ERP**. Especializado en la creación de soluciones robustas utilizando **Java (Spring Boot)** y **C# (.NET 8)**.
+Desarrollador Backend con **1 año de experiencia profesional** enfocado en el diseño, desarrollo e integración de **sistemas empresariales transaccionales y módulos ERP**. Especializado en la creación de soluciones robustas utilizando **Java (Spring Boot)** y **C# (.NET 8)**.
 
 ---
 
@@ -37,6 +37,20 @@ Desarrollador Backend enfocado en el diseño, desarrollo e integración de **sis
 
 ---
 
+## 💼 Experiencia Profesional (1 Año)
+
+### **Desarrollador de Software / Analista de TI**
+**Sisprime Sistemas** *(Jun 2025 – Presente)*
+- Desarrollo, mantenimiento y refactorización de módulos ERP empresariales en C#, .NET y bases de datos relacionales.
+
+#### **Módulos Desarrollados & Implementados:**
+- 💳 **Módulo Préstamos & Financiero:** Desembolsos, pagos e integración con caja.
+- 📋 **Módulo Órdenes de Servicio:** Diseño completo desde cero e importación masiva de datos.
+- 🛒 **Módulo Caja & POS (Ventas):** Reescritura y optimización de código legado.
+- 🌾 **Módulo Agrícola (SISAGRO):** Automatización de cálculos complejos del sector agro.
+
+---
+
 ## 🚀 Proyectos Destacados
 
 ### ☕ 1. Cash Transactions System (CTS)
@@ -47,18 +61,9 @@ Desarrollador Backend enfocado en el diseño, desarrollo e integración de **sis
 
 ---
 
-## 💼 Experiencia Profesional
-
-### **Desarrollador de Software / Analista de TI**
-**Sisprime Sistemas** *(Jun 2025 – Presente)*
-- Desarrollo, mantenimiento y refactorización de módulos ERP empresariales en C#, .NET y bases de datos relacionales.
-- Desarrollo de interfaces e integraciones con ASP.NET Core Razor Pages, módulo financiero de préstamos, Órdenes de Servicio y módulo POS/Caja.
-
----
-
 ## 🎓 Educación & Idiomas
 
-- **Licenciatura en Análisis de Sistemas** — Universidad Nacional de Canindeyú (Feb 2022 – Presente)
+- **Licenciatura en Análisis de Sistemas** — Universidad Nacional de Canindeyú (Katueté) (Feb 2022 – Presente)
 - **Idiomas:** Español (Nativo), Guaraní (Nativo), Portugués (Avanzado).
 
 ---
