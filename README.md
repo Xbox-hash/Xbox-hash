@@ -5,14 +5,14 @@
 
   <!-- Animated Typing Text Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+Java+%26+C%23+.NET;Especialista+en+Sistemas+Transaccionales;1+A%C3%B1o+de+Experiencia+Profesional;Construyendo+Software+Escalable+y+Robusto" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+Java+%26+C%23+.NET" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Botón principal a la Hoja de Vida interactiva -->
+  <!-- Botón Destacado al Curriculum Vitae -->
   <a href="https://xbox-hash.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/📄_VER_HOJA_DE_VIDA_INTERACTIVA_(HTML/PDF)-ONLINE-2563eb?style=for-the-badge&logo=html5&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/📄_VER_CURRICULUM_VITAE_INTERACTIVO_(HTML/PDF)-ONLINE-1d4ed8?style=for-the-badge&logo=html5&logoColor=white" height="55" />
   </a>
 
   <br/><br/>
