@@ -37,7 +37,7 @@ Desarrollador Backend con **1 año de experiencia profesional** enfocado en el d
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) **Java** | Java 21, Spring Boot 3.3, Spring Data JPA, Spring Security 6, Hibernate, Maven |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **C# .NET** | C# 12, .NET 8.0, ASP.NET Core MVC, Razor Pages, Entity Framework Core 8 |
 | ![Database](https://img.shields.io/badge/Database-4169E1?style=flat-square&logo=postgresql&logoColor=white) **Bases de Datos** | PostgreSQL, SQL Server, MySQL |
-| ![Tools](https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white) **Herramientas & Web** | Git, GitHub, Docker, Docker Compose, Thymeleaf, HTML5, CSS3, JavaScript |
+| ![Cloud & DevOps](https://img.shields.io/badge/Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) **Cloud & Herramientas** | Oracle Cloud (VPS Compute), Docker, Docker Compose, Git, GitHub, Thymeleaf |
 
 ---
 
@@ -57,11 +57,14 @@ Desarrollador Backend con **1 año de experiencia profesional** enfocado en el d
 
 ## 🚀 Proyectos Destacados
 
-### ☕ 1. Cash Transactions System (CTS)
-- **Stack Utilizado:** Java 21, Spring Boot 3.3, Spring Data JPA, Spring Security 6, PostgreSQL, Thymeleaf, Docker, Maven.
-
-### 🟣 2. Sistema Agroganadero
+### 🟣 1. ERP Ganadero (Sistema Agroganadero) — `🟢 En Producción`
+- **Modalidad:** Proyecto Freelance / Particular (En Producción).
 - **Stack Utilizado:** C#, .NET 8.0, ASP.NET Core MVC, Razor Pages, Entity Framework Core 8, SQL Server, QuestPDF.
+
+### ☕ 2. Cash Transactions System (CTS) — `🚀 Próximamente en Producción`
+- **Estado:** En breve a lanzarse en producción.
+- **Stack Utilizado:** Java 21, Spring Boot 3.3, Spring Data JPA, Spring Security 6, PostgreSQL, Thymeleaf, Docker, Maven.
+- **Infraestructura Cloud:** Oracle Cloud (VPS Compute Always Free), Docker Compose.
 
 ---
 
