@@ -12,7 +12,6 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-xbox--hash.onrender.com-000000?style=for-the-badge&logo=render&logoColor=white)](https://xbox-hash.onrender.com)
 [![Email](https://img.shields.io/badge/Email-t9834286%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t9834286@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Ubicación-Katueté,_Paraguay-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
