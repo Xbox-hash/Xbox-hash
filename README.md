@@ -1,19 +1,24 @@
 <div align="center">
 
-# 👨‍💻 Nelson Tobias Parra Moreno
-### **Desarrollador Backend | Java (Spring Boot) & C# (.NET 8) | 1 Año de Experiencia**
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Nelson%20Tobias%20Parra%20Moreno&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<br/>
+  <!-- Animated Typing Text Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+Java+%26+C%23+.NET;Especialista+en+Sistemas+Transaccionales;1+A%C3%B1o+de+Experiencia+Profesional;Construyendo+Software+Escalable+y+Robusto" alt="Typing SVG" />
+  </a>
 
-<!-- Botón principal al CV HTML interactivo / Hoja de Vida -->
-<a href="https://xbox-hash.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/📄_VER_HOJA_DE_VIDA_INTERACTIVA_(HTML/PDF)-ONLINE-2563eb?style=for-the-badge&logo=html5&logoColor=white" height="45" />
-</a>
+  <br/><br/>
 
-<br/><br/>
+  <!-- Botón principal a la Hoja de Vida interactiva -->
+  <a href="https://xbox-hash.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VER_HOJA_DE_VIDA_INTERACTIVA_(HTML/PDF)-ONLINE-2563eb?style=for-the-badge&logo=html5&logoColor=white" height="45" />
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-t9834286%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t9834286@gmail.com)
-[![Ubicación](https://img.shields.io/badge/Ubicación-Katueté,_Paraguay-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+  <br/><br/>
+
+  [![Email](https://img.shields.io/badge/Email-t9834286%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t9834286@gmail.com)
+  [![Ubicación](https://img.shields.io/badge/Ubicación-Katueté,_Paraguay-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
