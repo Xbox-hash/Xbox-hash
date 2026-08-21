@@ -1,9 +1,8 @@
 <div align="center">
 
-  <!-- Profile Image -->
-  <img src="https://raw.githubusercontent.com/Xbox-hash/xbox-hash.github.io/main/profile.jpg" width="140" height="140" style="border-radius: 50%; border: 4px solid #38bdf8; object-fit: cover;" alt="Nelson Tobias Parra Moreno" />
+<img src="https://raw.githubusercontent.com/Xbox-hash/xbox-hash.github.io/main/profile.jpg" width="160" alt="Nelson Tobias Parra Moreno" />
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Nelson%20Tobias%20Parra%20Moreno&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
