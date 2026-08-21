@@ -62,8 +62,8 @@ Desarrollador Backend con **1 año de experiencia profesional** enfocado en el d
 
 ## 🚀 Proyectos Destacados
 
-### 🟣 1. ERP Ganadero (Sistema Agroganadero) — `🟢 En Producción`
-- **Modalidad:** Proyecto Freelance / Particular (En Producción).
+### 🟣 1. ERP Ganadero (Sistema Agroganadero) — `💼 Proyecto Freelance`
+- **Modalidad:** Proyecto Freelance / Particular.
 - **Stack Utilizado:** C#, .NET 8.0, ASP.NET Core MVC, Razor Pages, Entity Framework Core 8, SQL Server, QuestPDF.
 
 ### ☕ 2. Cash Transactions System (CTS) — `🚀 Próximamente en Producción`
