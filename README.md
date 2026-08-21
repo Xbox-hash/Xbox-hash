@@ -26,14 +26,15 @@
 
 ## ⚡ Perfil Técnico
 
-Desarrollador Backend con **1 año de experiencia profesional** enfocado en el diseño, desarrollo e integración de **sistemas empresariales transaccionales y módulos ERP**. Aplicación rigurosa de **Clean Architecture, Principios SOLID y Clean Code**, trabajando bajo metodologías ágiles (**Scrum / Kanban**). Especializado en **Java (Spring Boot)** y **C# (.NET 8)**.
+Desarrollador Backend con **1 año de experiencia profesional** enfocado en el diseño, desarrollo e integración de **sistemas empresariales transaccionales y módulos ERP**. Integración diaria de **herramientas de IA asistida (Antigravity, Claude Code)** para desarrollo ágil y optimización de código. Aplicación rigurosa de **Clean Architecture, Principios SOLID y Clean Code** bajo metodologías **Scrum / Kanban**. Especializado en **Java (Spring Boot)** y **C# (.NET 8)**.
 
 ---
 
-## 🛠️ Stack Tecnológico & Metodologías
+## 🛠️ Stack Tecnológico & Herramientas
 
-| Categoría | Tecnologías, Arquitectura & Herramientas |
+| Categoría | Tecnologías, Herramientas & Arquitectura |
 |---|---|
+| 🤖 **IA & Desarrollo Asistido** | **Antigravity CLI / IDE**, **Claude Code**, GitHub Copilot, Prompt Engineering |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) **Java** | Java 21, Spring Boot 3.3, Spring Data JPA, Spring Security 6, Hibernate, Maven |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **C# .NET** | C# 12, .NET 8.0, ASP.NET Core MVC, Razor Pages, Entity Framework Core 8 |
 | 📐 **Arquitectura & Prácticas** | Clean Architecture, Principios SOLID, Clean Code, Patrones de Diseño, Refactorización |
@@ -48,8 +49,8 @@ Desarrollador Backend con **1 año de experiencia profesional** enfocado en el d
 ### **Desarrollador de Software / Analista de TI**
 **Sisprime Sistemas** *(Jun 2025 – Presente)*
 - Desarrollo, mantenimiento y refactorización de módulos ERP empresariales en C#, .NET y bases de datos relacionales.
-- Aplicación de **Clean Architecture, SOLID y Clean Code** para la mantenibilidad y escalabilidad del código.
-- Trabajo colaborativo bajo metodología **Scrum / Kanban**.
+- Integración de herramientas de IA (**Antigravity, Claude Code**) en el flujo de trabajo diario para acelerar el desarrollo y la calidad de software.
+- Aplicación de **Clean Architecture, SOLID y Clean Code** bajo metodología **Scrum / Kanban**.
 
 #### **Módulos Desarrollados & Implementados:**
 - 💳 **Módulo Préstamos & Financiero:** Desembolsos, pagos e integración con caja.
