@@ -18,6 +18,7 @@
   <br/><br/>
 
   [![Email](https://img.shields.io/badge/Email-t9834286%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t9834286@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tobias_Parra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-parra-moreno-074083357)
   [![Ubicación](https://img.shields.io/badge/Ubicación-Katueté,_Paraguay-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
