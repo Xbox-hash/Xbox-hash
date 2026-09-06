@@ -85,33 +85,33 @@ En mi día a día profesional participo en todo el ciclo de vida del software: d
 
 ---
 
-### Proyectos Destacados
+### Proyectos Principales
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h3 align="center">Terra Macetas</h3>
-      <p>Sistema web de catálogo de macetas con carrito de compras, integración de pedidos vía WhatsApp y panel administrativo completo.</p>
-      <p><b>Stack:</b> React, TypeScript, ASP.NET Core 8, SQL Server.</p>
+      <p>Sistema web de catálogo de macetas con carrito de compras, gestión de pedidos vía WhatsApp y panel administrativo integral.</p>
+      <p><b>Stack:</b> React, TypeScript, ASP.NET Core 8, SQL Server, Bootstrap.</p>
       <p align="center">
         <a href="https://github.com/Xbox-hash/terra-macetas"><b>Ver Repositorio →</b></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">ZentroPOS / CTS</h3>
-      <p>Sistema robusto de gestión de transacciones de efectivo y punto de venta diseñado con estándares de Clean Architecture.</p>
-      <p><b>Stack:</b> C# .NET 8, EF Core, SQL Server, Clean Architecture.</p>
+    <td width="33%" valign="top">
+      <h3 align="center">ZentroPOS</h3>
+      <p>Sistema de gestión de transacciones de efectivo y punto de venta diseñado bajo arquitectura limpia y modular para alta escalabilidad.</p>
+      <p><b>Stack:</b> C# 12, .NET 8, EF Core, SQL Server, Clean Architecture.</p>
       <p align="center">
-        <a href="https://github.com/CaninDevs/ZentroPOS"><b>Ver en CaninDevs →</b></a>
+        <a href="https://github.com/CaninDevs/ZentroPOS"><b>Ver Repositorio →</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">CaninDevs Organization</h3>
+      <p>Organización de desarrollo de software enfocada en soluciones empresariales, innovación tecnológica y arquitecturas modernas.</p>
+      <p><b>Stack:</b> Java, .NET Core, Docker, PostgreSQL, Contabo VPS.</p>
+      <p align="center">
+        <a href="https://github.com/CaninDevs"><b>Ver Organización →</b></a>
       </p>
     </td>
   </tr>
 </table>
-
----
-
-### GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xbox-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
