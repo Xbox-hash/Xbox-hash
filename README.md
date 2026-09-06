@@ -28,7 +28,7 @@ In my day-to-day work, I contribute across the entire software development lifec
 - **Productivity & AI Tools:** Strategic integration of Artificial Intelligence tools to accelerate development workflows, debugging, and code refactoring.
 - **Infrastructure & Deployment:** Container management with Docker and VPS administration on Contabo.
 - **Location:** Salto del Guairá / Katueté, Canindeyú, Paraguay.
-- **Languages:** Spanish (Native), Guarani (Native), Portuguese (Advanced), English (Technical / Professional).
+- **Languages:** Spanish (Native), Guarani (Native), Portuguese (Advanced).
 
 ---
 
