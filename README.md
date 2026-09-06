@@ -110,8 +110,8 @@ Estudiante avanzado de **Licenciatura en Análisis de Sistemas** en la *Universi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xbox-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xbox-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Principales" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xbox-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xbox-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Principales" />
 </div>
 
 <div align="center">
