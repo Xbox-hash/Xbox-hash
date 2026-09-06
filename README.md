@@ -1,21 +1,17 @@
 <div align="center">
-  <h1 align="center">Nelson Tobias Parra Moreno</h1>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Fullstack+Developer+Java+%26+.NET;Junior+III+Developer+%7C+1%2B+A%C3%B1os+de+Experiencia;Clean+Architecture+%7C+SOLID+%7C+Sistemas+POS+%26+CTS;Salto+del+Guair%C3%A1%2C+Paraguay" alt="Typing Header" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,40:1e1b4b,80:311042,100:09090b&height=180&section=header&text=Nelson%20Tobias%20Parra%20Moreno&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%7C%20C%23%20.NET&descFontSize=19&descColor=38bdf8&descAlignY=66" width="100%" alt="Header Banner" />
 
-  <p align="center">
+  <p align="center" style="margin-top: 12px;">
     <a href="https://xbox-hash.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/CV_Interactivo-Ver_Online-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Interactive CV" />
+      <img src="https://img.shields.io/badge/Interactive_CV-Ver_Online-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Interactive CV" />
     </a>
     &nbsp;
     <a href="mailto:tobiasparra959@gmail.com">
-      <img src="https://img.shields.io/badge/Email-tobiasparra959@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-tobiasparra959@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://wa.me/595982885994" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Contactar-22c55e?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-Contactar-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 </div>
