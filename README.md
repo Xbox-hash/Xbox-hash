@@ -1,15 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=70&lines=Nelson+Tobias+Parra+Moreno;Fullstack+Developer+Java+%26+.NET;Junior+III+Developer+%7C+Clean+Architecture" alt="Typing Animation" />
+  <h1 align="center">Nelson Tobias Parra Moreno</h1>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Fullstack+Developer+Java+%26+.NET;Junior+III+Developer+%7C+1%2B+A%C3%B1os+de+Experiencia;Clean+Architecture+%7C+SOLID+%7C+Sistemas+POS+%26+CTS;Salto+del+Guair%C3%A1%2C+Paraguay" alt="Typing Header" />
+  </p>
 
   <p align="center">
     <a href="https://xbox-hash.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Interactive_CV-Visitar_Web-1f6feb?style=for-the-badge&logoColor=white" alt="Interactive CV" />
+      <img src="https://img.shields.io/badge/CV_Interactivo-Ver_Online-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Interactive CV" />
     </a>
+    &nbsp;
     <a href="mailto:tobiasparra959@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contacto-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-tobiasparra959@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
     <a href="https://wa.me/595982885994" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-Contactar-22c55e?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 </div>
