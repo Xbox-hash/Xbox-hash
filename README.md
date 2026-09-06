@@ -91,27 +91,18 @@ En mi día a día profesional participo en todo el ciclo de vida del software: d
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Terra Macetas</h3>
-      <p>Sistema web de catálogo de macetas con carrito de compras, gestión de pedidos vía WhatsApp y panel administrativo integral.</p>
+      <p>Sistema web de catálogo comercial con carrito de compras, gestión automatizada de pedidos vía WhatsApp y módulo administrativo integral.</p>
       <p><b>Stack:</b> React, TypeScript, ASP.NET Core 8, SQL Server, Bootstrap.</p>
-      <p align="center">
-        <a href="https://github.com/Xbox-hash/terra-macetas"><b>Ver Repositorio →</b></a>
-      </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">ZentroPOS</h3>
-      <p>Sistema de gestión de transacciones de efectivo y punto de venta diseñado bajo arquitectura limpia y modular para alta escalabilidad.</p>
+      <p>Sistema transaccional de caja y punto de venta empresarial diseñado bajo principios de arquitectura limpia y modular para alta concurrencia.</p>
       <p><b>Stack:</b> C# 12, .NET 8, EF Core, SQL Server, Clean Architecture.</p>
-      <p align="center">
-        <a href="https://github.com/CaninDevs/ZentroPOS"><b>Ver Repositorio →</b></a>
-      </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">CaninDevs Organization</h3>
-      <p>Organización de desarrollo de software enfocada en soluciones empresariales, innovación tecnológica y arquitecturas modernas.</p>
+      <h3 align="center">CaninDevs</h3>
+      <p>Organización y ecosistema de desarrollo de software enfocado en soluciones empresariales, arquitectura moderna y despliegue continuo.</p>
       <p><b>Stack:</b> Java, .NET Core, Docker, PostgreSQL, Contabo VPS.</p>
-      <p align="center">
-        <a href="https://github.com/CaninDevs"><b>Ver Organización →</b></a>
-      </p>
     </td>
   </tr>
 </table>
