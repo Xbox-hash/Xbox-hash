@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nelson%20Tobias%20Parra%20Moreno&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20developer%20Java%20%26%20.NET&descFontSize=20&descAlignY=58&descAlign=50" width="100%" />
+  <h1>Nelson Tobias Parra Moreno 👋</h1>
+  <p><strong>🚀 Fullstack Developer Java &amp; .NET | Clean Architecture | Software Systems</strong></p>
 
   <p align="center">
     <a href="https://xbox-hash.github.io" target="_blank">
@@ -21,7 +22,7 @@
 Estudiante avanzado de **Licenciatura en Análisis de Sistemas** en la *Universidad Nacional de Canindeyú (UNICAN)* con sólida trayectoria en el desarrollo de software empresarial, sistemas transaccionales y de punto de venta (POS).
 
 - 🎯 **Especialización**: Backend y arquitecturas empresariales con **Java, C# 12, .NET 8, ASP.NET Core MVC/APIs, Entity Framework Core y Clean Architecture**.
-- 🚀 **Potenciado por IA**: Flujo de trabajo acelerado con herramientas de última generación.
+- 🚀 **Potenciado por IA**: Flujo de trabajo ágil y de alto rendimiento.
 - 📍 **Ubicación**: Salto del Guairá / Katueté, Canindeyú, Paraguay.
 - 🗣️ **Idiomas**: Español (Nativo), Guaraní (Nativo), Portugués (Avanzado).
 
@@ -110,16 +111,5 @@ Estudiante avanzado de **Licenciatura en Análisis de Sistemas** en la *Universi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xbox-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xbox-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Principales" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xbox-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
