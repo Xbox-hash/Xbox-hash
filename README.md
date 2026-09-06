@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nelson%20Tobias%20Parra%20Moreno&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20C%23%20.NET%20Specialist%20%7C%20AI-Assisted%20Engineering&descFontSize=18&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nelson%20Tobias%20Parra%20Moreno&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20developer%20Java%20%26%20.NET&descFontSize=20&descAlignY=58&descAlign=50" width="100%" />
 
   <p align="center">
     <a href="https://xbox-hash.github.io" target="_blank">
@@ -20,8 +20,8 @@
 
 Estudiante avanzado de **Licenciatura en Análisis de Sistemas** en la *Universidad Nacional de Canindeyú (UNICAN)* con sólida trayectoria en el desarrollo de software empresarial, sistemas transaccionales y de punto de venta (POS).
 
-- 🎯 **Especialización**: Backend y arquitecturas empresariales con **C# 12, .NET 8, ASP.NET Core MVC/APIs, Entity Framework Core y Clean Architecture**.
-- 🚀 **Potenciado por IA**: Flujo de trabajo acelerado con herramientas como **Antigravity, Claude Code, GitHub Copilot**.
+- 🎯 **Especialización**: Backend y arquitecturas empresariales con **Java, C# 12, .NET 8, ASP.NET Core MVC/APIs, Entity Framework Core y Clean Architecture**.
+- 🚀 **Potenciado por IA**: Flujo de trabajo acelerado con herramientas de última generación.
 - 📍 **Ubicación**: Salto del Guairá / Katueté, Canindeyú, Paraguay.
 - 🗣️ **Idiomas**: Español (Nativo), Guaraní (Nativo), Portugués (Avanzado).
 
@@ -31,6 +31,10 @@ Estudiante avanzado de **Licenciatura en Análisis de Sistemas** en la *Universi
 
 <table>
   <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br><sub><b>Java</b></sub>
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />
       <br><sub><b>C# 12</b></sub>
@@ -70,11 +74,10 @@ Estudiante avanzado de **Licenciatura en Análisis de Sistemas** en la *Universi
   <summary><b>🔍 Ver todas las herramientas & arquitecturas</b></summary>
   <br>
 
-  - **Backend & Frameworks:** C#, ASP.NET Core, EF Core 8, Dapper, LINQ, RESTful APIs, QuestPDF.
+  - **Backend & Frameworks:** Java, C#, .NET 8, ASP.NET Core, EF Core, Spring / MVC, Dapper, RESTful APIs, QuestPDF.
   - **Frontend & UI:** TypeScript, JavaScript, React, Razor Pages, Bootstrap (SB Admin), HTML5, CSS3.
   - **Metodologías & Buenas Prácticas:** Clean Architecture, SOLID, Clean Code, Patrón MVC, Scrum, Kanban.
   - **Bases de Datos & Cloud:** Microsoft SQL Server, PostgreSQL, MySQL, Docker & Compose, Oracle Cloud.
-  - **IA & Productividad:** Antigravity CLI/IDE, Claude Code, GitHub Copilot.
 </details>
 
 ---
