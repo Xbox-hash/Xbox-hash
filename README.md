@@ -18,7 +18,7 @@
 
 ### Sobre Mí
 
-Soy desarrollador **Full Stack (Junior III)** con más de un año de experiencia profesional activa en el diseño, desarrollo y mantenimiento de software empresarial, sistemas transaccionales y soluciones de punto de venta (POS). Actualmente curso el último tramo de la **Licenciatura en Análisis de Sistemas** en la *Universidad Nacional de Canindeyú (UNICAN)*.
+Soy desarrollador **Full Stack (Junior III)** con más de un año de experiencia profesional activa en el diseño, desarrollo y mantenimiento de software empresarial, sistemas transaccionales y soluciones de punto de venta (POS).
 
 En mi día a día profesional participo en todo el ciclo de vida del software: desde el modelado de bases de datos relacionales y la creación de APIs RESTful de alto rendimiento, hasta la implementación de interfaces funcionales e intuitivas. Me enfoco en aplicar principios de **Clean Architecture, SOLID y Clean Code**, garantizando sistemas escalables, modulares y fáciles de mantener.
 
