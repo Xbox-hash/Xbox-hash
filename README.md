@@ -3,7 +3,7 @@
 
   <p align="center" style="margin-top: 12px;">
     <a href="https://xbox-hash.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Interactive_CV-Ver_Online-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Interactive CV" />
+      <img src="https://img.shields.io/badge/Interactive_CV-View_Online-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Interactive CV" />
     </a>
     &nbsp;
     <a href="mailto:tobiasparra959@gmail.com">
@@ -11,28 +11,28 @@
     </a>
     &nbsp;
     <a href="https://wa.me/595982885994" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Contactar-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-Contact-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 </div>
 
 ---
 
-### Sobre Mí
+### About Me
 
-Soy desarrollador **Full Stack (Junior III)** con más de un año de experiencia profesional activa en el diseño, desarrollo y mantenimiento de software empresarial, sistemas transaccionales y soluciones de punto de venta (POS).
+I am a **Full Stack Developer (Junior III)** with over a year of active professional experience building, maintaining, and scaling enterprise software, transactional systems, and Point of Sale (POS) solutions.
 
-En mi día a día profesional participo en todo el ciclo de vida del software: desde el modelado de bases de datos relacionales y la creación de APIs RESTful de alto rendimiento, hasta la implementación de interfaces funcionales e intuitivas. Me enfoco en aplicar principios de **Clean Architecture, SOLID y Clean Code**, garantizando sistemas escalables, modulares y fáciles de mantener.
+In my day-to-day work, I contribute across the entire software development lifecycle: from relational database modeling and building high-performance RESTful APIs to creating intuitive, responsive user interfaces. My primary focus is applying **Clean Architecture, SOLID principles, and Clean Code standards** to deliver scalable and maintainable solutions.
 
-- **Especialización técnica:** Backend robusto y desarrollo empresarial con Java, C# (.NET 8), ASP.NET Core, Entity Framework Core y Dapper.
-- **Herramientas de productividad:** Integración y uso estratégico de herramientas de Inteligencia Artificial para optimizar tiempos de entrega, depuración y refactorización de código.
-- **Infraestructura y despliegue:** Gestión de entornos con Docker y administración de servidores VPS en Contabo.
-- **Ubicación:** Salto del Guairá / Katueté, Canindeyú, Paraguay.
-- **Idiomas:** Español (Nativo), Guaraní (Nativo), Portugués (Avanzado).
+- **Technical Expertise:** Robust backend and enterprise development with Java, C# (.NET 8), ASP.NET Core, Entity Framework Core, and Dapper.
+- **Productivity & AI Tools:** Strategic integration of Artificial Intelligence tools to accelerate development workflows, debugging, and code refactoring.
+- **Infrastructure & Deployment:** Container management with Docker and VPS administration on Contabo.
+- **Location:** Salto del Guairá / Katueté, Canindeyú, Paraguay.
+- **Languages:** Spanish (Native), Guarani (Native), Portuguese (Advanced), English (Technical / Professional).
 
 ---
 
-### Stack Tecnológico
+### Tech Stack
 
 <table>
   <tr>
@@ -76,34 +76,34 @@ En mi día a día profesional participo en todo el ciclo de vida del software: d
 </table>
 
 <details>
-  <summary><b>Ver todas las herramientas & arquitecturas</b></summary>
+  <summary><b>View all tools, frameworks & architectures</b></summary>
   <br>
 
-  - **Backend & Frameworks:** Java, C#, .NET 8, ASP.NET Core, EF Core, Spring / MVC, Dapper, RESTful APIs.
+  - **Backend & Frameworks:** Java, C#, .NET 8, ASP.NET Core, EF Core, Spring / MVC, Dapper, RESTful APIs, Swagger.
   - **Frontend & UI:** TypeScript, JavaScript, React, Razor Pages, Bootstrap (SB Admin), HTML5, CSS3.
-  - **Metodologías & Buenas Prácticas:** Clean Architecture, SOLID, Clean Code, Patrón MVC, Scrum, Kanban.
-  - **Bases de Datos, Infraestructura & Cloud:** Microsoft SQL Server, PostgreSQL, MySQL, Docker & Compose, Contabo VPS.
+  - **Methodologies & Best Practices:** Clean Architecture, SOLID, Clean Code, MVC Pattern, Scrum, Kanban.
+  - **Databases, Infrastructure & Cloud:** Microsoft SQL Server, PostgreSQL, MySQL, Docker & Compose, Contabo VPS.
 </details>
 
 ---
 
-### Proyectos Principales
+### Featured Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Terra Macetas</h3>
-      <p>Sistema web de catálogo comercial con carrito de compras, gestión automatizada de pedidos vía WhatsApp y módulo administrativo integral.</p>
-      <p><b>Stack:</b> React, TypeScript, ASP.NET Core 8, SQL Server, Bootstrap.</p>
+      <p>E-commerce and commercial product catalog with shopping cart, automated WhatsApp order processing, and administrative management panel.</p>
+      <p><b>Stack:</b> React, TypeScript, ASP.NET Core 8 Web API, Swagger, SQL Server, Bootstrap.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">ZentroPOS</h3>
-      <p>Sistema transaccional de caja y punto de venta empresarial diseñado bajo principios de arquitectura limpia y modular para alta concurrencia.</p>
-      <p><b>Stack:</b> C# 12, .NET 8, EF Core, SQL Server, Clean Architecture.</p>
+      <p>Enterprise Point of Sale and cash transactions management system architected under clean modular principles for high concurrency.</p>
+      <p><b>Stack:</b> C# 12, .NET 8, EF Core, SQL Server, Clean Architecture, Docker.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">CaninDevs</h3>
-      <p>Organización y ecosistema de desarrollo de software enfocado en soluciones empresariales, arquitectura moderna y despliegue continuo.</p>
+      <p>Software development organization focused on building enterprise-grade software solutions, modern architectures, and continuous deployment.</p>
       <p><b>Stack:</b> Java, .NET Core, Docker, PostgreSQL, Contabo VPS.</p>
     </td>
   </tr>
