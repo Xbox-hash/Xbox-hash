@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Nelson Tobias Parra Moreno 👋</h1>
-  <p><strong>🚀 Fullstack Developer Java &amp; .NET | Clean Architecture | Software Systems</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=70&lines=Nelson+Tobias+Parra+Moreno;Fullstack+Developer+Java+%26+.NET;Clean+Architecture+%7C+Software+Systems" alt="Typing Animation" />
 
   <p align="center">
     <a href="https://xbox-hash.github.io" target="_blank">
