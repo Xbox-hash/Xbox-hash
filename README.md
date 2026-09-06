@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/Email-nelsontobiasparramoreno745@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://wa.me/595982885994" target="_blank">
+    <a href="https://wa.me/595982615140" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-Contact-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
