@@ -21,7 +21,7 @@
 Estudiante avanzado de **Licenciatura en Análisis de Sistemas** en la *Universidad Nacional de Canindeyú (UNICAN)* con sólida trayectoria en el desarrollo de software empresarial, sistemas transaccionales y de punto de venta (POS).
 
 - 🎯 **Especialización**: Backend y arquitecturas empresariales con **Java, C# 12, .NET 8, ASP.NET Core MVC/APIs, Entity Framework Core y Clean Architecture**.
-- 🚀 **Potenciado por IA**: Flujo de trabajo ágil y de alto rendimiento.
+- 🤖 **Herramientas de IA**: Manejo y aplicación de herramientas de IA en flujos de desarrollo.
 - 📍 **Ubicación**: Salto del Guairá / Katueté, Canindeyú, Paraguay.
 - 🗣️ **Idiomas**: Español (Nativo), Guaraní (Nativo), Portugués (Avanzado).
 
@@ -74,10 +74,10 @@ Estudiante avanzado de **Licenciatura en Análisis de Sistemas** en la *Universi
   <summary><b>🔍 Ver todas las herramientas & arquitecturas</b></summary>
   <br>
 
-  - **Backend & Frameworks:** Java, C#, .NET 8, ASP.NET Core, EF Core, Spring / MVC, Dapper, RESTful APIs, QuestPDF.
+  - **Backend & Frameworks:** Java, C#, .NET 8, ASP.NET Core, EF Core, Spring / MVC, Dapper, RESTful APIs.
   - **Frontend & UI:** TypeScript, JavaScript, React, Razor Pages, Bootstrap (SB Admin), HTML5, CSS3.
   - **Metodologías & Buenas Prácticas:** Clean Architecture, SOLID, Clean Code, Patrón MVC, Scrum, Kanban.
-  - **Bases de Datos & Cloud:** Microsoft SQL Server, PostgreSQL, MySQL, Docker & Compose, Oracle Cloud.
+  - **Bases de Datos, Infraestructura & Cloud:** Microsoft SQL Server, PostgreSQL, MySQL, Docker & Compose, Contabo VPS.
 </details>
 
 ---
