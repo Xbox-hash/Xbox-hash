@@ -6,8 +6,8 @@
       <img src="https://img.shields.io/badge/Interactive_CV-View_Online-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Interactive CV" />
     </a>
     &nbsp;
-    <a href="mailto:tobiasparra959@gmail.com">
-      <img src="https://img.shields.io/badge/Email-tobiasparra959@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:nelsontobiasparramoreno745@gmail.com">
+      <img src="https://img.shields.io/badge/Email-nelsontobiasparramoreno745@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://wa.me/595982885994" target="_blank">
