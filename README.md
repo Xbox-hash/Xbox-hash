@@ -99,7 +99,10 @@ In my day-to-day work, I contribute across the entire software development lifec
     <td width="33%" valign="top">
       <h3 align="center">ZentroPOS</h3>
       <p>Enterprise Point of Sale and cash transactions management system architected under clean modular principles for high concurrency.</p>
-      <p><b>Stack:</b> C# 12, .NET 8, EF Core, SQL Server, Clean Architecture, Docker.</p>
+      <p><b>Stack:</b> Java / .NET, PostgreSQL / SQL Server, Clean Architecture, Docker.</p>
+      <p align="center">
+        <a href="http://86.48.21.7:4000" target="_blank"><b>🌐 View Live Demo (VPS) →</b></a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">CaninDevs</h3>
