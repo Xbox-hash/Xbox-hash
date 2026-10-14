@@ -95,6 +95,9 @@ In my day-to-day work, I contribute across the entire software development lifec
       <h3 align="center">Terra Macetas</h3>
       <p>E-commerce and commercial product catalog with shopping cart, automated WhatsApp order processing, and administrative management panel.</p>
       <p><b>Stack:</b> React, TypeScript, ASP.NET Core 8 Web API, Swagger, SQL Server, Bootstrap.</p>
+      <p align="center">
+        <a href="https://test.donnabotanica.com.py" target="_blank"><b>🌐 View Live Demo →</b></a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">ZentroPOS</h3>
