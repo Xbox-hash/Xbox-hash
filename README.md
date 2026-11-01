@@ -37,7 +37,7 @@ I am a **Full Stack Developer (Junior III)** with over a year of professional ex
 
 - **Current role:** Full Stack C# .NET Developer at **Sisprime Sistemas** (Jun 2025 – present), building ERP modules with ASP.NET Core 6 MVC, Entity Framework Core, Dapper, and SQL Server.
 - **Highlight:** Multi-currency support (Guarani, US Dollar, and Brazilian Real) across cash register, POS sales, loans, and service orders, with mixed-currency payments and EF Core transactions to keep cash, sales, and receivables consistent.
-- **Technical Expertise:** C# (.NET 8 / .NET 6), ASP.NET Core, Entity Framework Core, Dapper, Java, and Spring.
+- **Technical Expertise:** C# (.NET 8 / .NET 6), ASP.NET Core, Entity Framework Core, Java, and Spring.
 - **Practices:** SOLID principles, Clean Code, layered MVC architecture, and Clean Architecture.
 - **AI Tools:** Claude Code and GitHub Copilot to debug, refactor, and develop faster.
 - **Infrastructure & Deployment:** Docker, GitHub Actions, Linux VPS, and Cloudflare.
@@ -93,7 +93,7 @@ I am a **Full Stack Developer (Junior III)** with over a year of professional ex
   <summary><b>View all tools, frameworks & architectures</b></summary>
   <br>
 
-  - **Backend & Frameworks:** C#, .NET 8, .NET 6, ASP.NET Core (MVC & Web API), EF Core, Dapper, LINQ, Java, Spring, RESTful APIs, Swagger.
+  - **Backend & Frameworks:** C#, .NET 8, .NET 6, ASP.NET Core (MVC & Web API), EF Core, Java, Spring, RESTful APIs, Swagger.
   - **Frontend & UI:** TypeScript, JavaScript, React, Razor Pages, Tailwind CSS, Bootstrap (SB Admin), HTML5, CSS3.
   - **Methodologies & Best Practices:** SOLID, Clean Code, layered MVC, Clean Architecture, Scrum, Kanban.
   - **Databases:** Microsoft SQL Server (incl. SQL transactions), PostgreSQL, MySQL.
@@ -112,8 +112,6 @@ I am a **Full Stack Developer (Junior III)** with over a year of professional ex
       <p><b>Stack:</b> ASP.NET Core 8 Web API, EF Core, SQL Server, React, TypeScript, Tailwind CSS, Docker, GitHub Actions.</p>
       <p align="center">
         <a href="https://test.donnabotanica.com.py" target="_blank"><b>🌐 Live Demo</b></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Xbox-hash/terra-macetas" target="_blank"><b>💻 Source Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
