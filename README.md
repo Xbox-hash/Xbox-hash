@@ -1,17 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,40:1e1b4b,80:311042,100:09090b&height=180&section=header&text=Nelson%20Tobias%20Parra%20Moreno&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%7C%20C%23%20.NET&descFontSize=19&descColor=38bdf8&descAlignY=66" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,40:1e1b4b,80:311042,100:09090b&height=180&section=header&text=Nelson%20Tobias%20Parra%20Moreno&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20C%23%20.NET%20%7C%20Java&descFontSize=19&descColor=38bdf8&descAlignY=66" width="100%" alt="Header Banner" />
 
   <p align="center" style="margin-top: 12px;">
     <a href="https://xbox-hash.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Interactive_CV-View_Online-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Interactive CV" />
+      <img src="https://img.shields.io/badge/Portfolio-View_Online-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
+    <a href="https://xbox-hash.github.io/cv-net.html" target="_blank">
+      <img src="https://img.shields.io/badge/CV-.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" alt="CV .NET" />
+    </a>
+    &nbsp;
+    <a href="https://xbox-hash.github.io/cv-java.html" target="_blank">
+      <img src="https://img.shields.io/badge/CV-Java-ea580c?style=for-the-badge&logo=openjdk&logoColor=white" alt="CV Java" />
+    </a>
+  </p>
+  <p align="center">
     <a href="mailto:nelsontobiasparramoreno745@gmail.com">
       <img src="https://img.shields.io/badge/Email-nelsontobiasparramoreno745@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://wa.me/595982615140" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-Contact-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/tobias-parra-moreno-074083357" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Tobias_Parra-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>
@@ -20,13 +33,14 @@
 
 ### About Me
 
-I am a **Full Stack Developer (Junior III)** with over a year of active professional experience building, maintaining, and scaling enterprise software, transactional systems, and Point of Sale (POS) solutions.
+I am a **Full Stack Developer (Junior III)** with over a year of professional experience building and maintaining enterprise software, transactional systems, and Point of Sale (POS) solutions. My main focus is backend development with **C# and .NET**; I also work with Java, React, and the infrastructure of my own projects.
 
-In my day-to-day work, I contribute across the entire software development lifecycle: from relational database modeling and building high-performance RESTful APIs to creating intuitive, responsive user interfaces. My primary focus is applying **Clean Architecture, SOLID principles, and Clean Code standards** to deliver scalable and maintainable solutions.
-
-- **Technical Expertise:** Robust backend and enterprise development with Java, C# (.NET 8), ASP.NET Core, Entity Framework Core, and Dapper.
-- **Productivity & AI Tools:** Strategic integration of Artificial Intelligence tools to accelerate development workflows, debugging, and code refactoring.
-- **Infrastructure & Deployment:** Container management with Docker and VPS administration on Contabo.
+- **Current role:** Full Stack C# .NET Developer at **Sisprime Sistemas** (Jun 2025 – present), building ERP modules with ASP.NET Core 6 MVC, Entity Framework Core, Dapper, and SQL Server.
+- **Highlight:** Multi-currency support (Guarani, US Dollar, and Brazilian Real) across cash register, POS sales, loans, and service orders, with mixed-currency payments and EF Core transactions to keep cash, sales, and receivables consistent.
+- **Technical Expertise:** C# (.NET 8 / .NET 6), ASP.NET Core, Entity Framework Core, Dapper, Java, and Spring.
+- **Practices:** SOLID principles, Clean Code, layered MVC architecture, and Clean Architecture.
+- **AI Tools:** Claude Code and GitHub Copilot to debug, refactor, and develop faster.
+- **Infrastructure & Deployment:** Docker, GitHub Actions, Linux VPS, and Cloudflare.
 - **Location:** Salto del Guairá / Katueté, Canindeyú, Paraguay.
 - **Languages:** Spanish (Native), Guarani (Native), Portuguese (Advanced).
 
@@ -37,16 +51,16 @@ In my day-to-day work, I contribute across the entire software development lifec
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />
       <br><sub><b>C# 12</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET" />
-      <br><sub><b>.NET 8</b></sub>
+      <br><sub><b>.NET 8 / 6</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br><sub><b>Java</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
@@ -57,12 +71,12 @@ In my day-to-day work, I contribute across the entire software development lifec
       <br><sub><b>React</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="SQL Server / MySQL" />
       <br><sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br><sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
@@ -79,10 +93,11 @@ In my day-to-day work, I contribute across the entire software development lifec
   <summary><b>View all tools, frameworks & architectures</b></summary>
   <br>
 
-  - **Backend & Frameworks:** Java, C#, .NET 8, ASP.NET Core, EF Core, Spring / MVC, Dapper, RESTful APIs, Swagger.
-  - **Frontend & UI:** TypeScript, JavaScript, React, Razor Pages, Bootstrap (SB Admin), HTML5, CSS3.
-  - **Methodologies & Best Practices:** Clean Architecture, SOLID, Clean Code, MVC Pattern, Scrum, Kanban.
-  - **Databases, Infrastructure & Cloud:** Microsoft SQL Server, PostgreSQL, MySQL, Docker & Compose, Contabo VPS.
+  - **Backend & Frameworks:** C#, .NET 8, .NET 6, ASP.NET Core (MVC & Web API), EF Core, Dapper, LINQ, Java, Spring, RESTful APIs, Swagger.
+  - **Frontend & UI:** TypeScript, JavaScript, React, Razor Pages, Tailwind CSS, Bootstrap (SB Admin), HTML5, CSS3.
+  - **Methodologies & Best Practices:** SOLID, Clean Code, layered MVC, Clean Architecture, Scrum, Kanban.
+  - **Databases:** Microsoft SQL Server (incl. SQL transactions), PostgreSQL, MySQL.
+  - **Infrastructure & DevOps:** Docker & Docker Compose, GitHub Actions, Linux VPS (Contabo), Cloudflare.
 </details>
 
 ---
@@ -91,23 +106,32 @@ In my day-to-day work, I contribute across the entire software development lifec
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Terra Macetas</h3>
-      <p>E-commerce and commercial product catalog with shopping cart, automated WhatsApp order processing, and administrative management panel.</p>
-      <p><b>Stack:</b> React, TypeScript, ASP.NET Core 8 Web API, Swagger, SQL Server, Bootstrap.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">Terra Macetas · Donna Botánica</h3>
+      <p>E-commerce in production with shopping cart, admin panel, and orders automatically notified via WhatsApp. REST API with JWT authentication, per-IP rate limiting, server-side pricing, and a background queue that resends notifications if the WhatsApp session drops.</p>
+      <p><b>Stack:</b> ASP.NET Core 8 Web API, EF Core, SQL Server, React, TypeScript, Tailwind CSS, Docker, GitHub Actions.</p>
       <p align="center">
-        <a href="https://test.donnabotanica.com.py" target="_blank"><b>🌐 View Live Demo →</b></a>
+        <a href="https://test.donnabotanica.com.py" target="_blank"><b>🌐 Live Demo</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Xbox-hash/terra-macetas" target="_blank"><b>💻 Source Code</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">ZentroPOS</h3>
-      <p>Enterprise Point of Sale and cash transactions management system architected under clean modular principles for high concurrency.</p>
-      <p><b>Stack:</b> Java / .NET, PostgreSQL / SQL Server, Clean Architecture, Docker.</p>
+      <p>Point of Sale and cash management system in production, deployed with Docker on a Linux VPS with zero-downtime (blue/green) deployments.</p>
+      <p><b>Stack:</b> Java, Spring, Docker.</p>
       <p align="center">
-        <a href="http://86.48.21.7:4000" target="_blank"><b>🌐 View Live Demo (VPS) →</b></a>
+        <a href="https://zentropos.app" target="_blank"><b>🌐 Live System</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ERP Ganadero (Freelance)</h3>
+      <p>Enterprise web application for livestock operations management and inventory tracking, built with an MVC architecture and dynamic Razor Pages views.</p>
+      <p><b>Stack:</b> C# 12, .NET 8, Razor Pages, EF Core 8, SQL Server, Bootstrap.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">CaninDevs</h3>
       <p>Software development organization focused on building enterprise-grade software solutions, modern architectures, and continuous deployment.</p>
       <p><b>Stack:</b> Java, .NET Core, Docker, PostgreSQL, Contabo VPS.</p>
